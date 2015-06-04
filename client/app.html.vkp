@@ -1,0 +1,15 @@
+<! DOCTYPE html>
+
+<html>
+<head>
+</head>
+
+<body>
+
+<p>This is my first app with node js and express js</p>
+</body>
+
+<script src="/lib/jquery/dist/jquery.js"></script>
+
+
+</html>
